@@ -1,6 +1,7 @@
 # cse-final
 
 Andino Rochon -- Rishi Patel -- Karan Shah
+https://www.youtube.com/watch?v=P3M7Va5eKLM&feature=youtu.be
 
 **We wanted to make a better way to take medicine that would help all people.
 Some people cannot take their medicine on their own or depend on others to help them.
