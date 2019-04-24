@@ -14,6 +14,6 @@ inclue alerting for everyone.**
 
 * Hardware Component with Arduino micro and commponents
 * Arduino software code to instruct the components what to do
-  *Made in Arduino software and uploaded to the board
+  * Made in Arduino software and uploaded to the board
 * Computer JavaFX software for doctors to use to securly set medicarion dosage and time
   * Created on UGA Nike server in emacs 
