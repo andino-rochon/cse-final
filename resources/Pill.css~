@@ -1,0 +1,3 @@
+#pill-back{
+    -fx-background-image: url("file:resources/blue3.jpg");
+}
