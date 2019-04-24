@@ -2,6 +2,7 @@
     -fx-background-image: url("file:resources/blue3.jpg");
 }
 
+//http://fxexperience.com/2011/12/styling-fx-buttons-with-css/
 #dark-blue {
     -fx-background-color: 
         #090a0c,
