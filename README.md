@@ -1,7 +1,6 @@
 # cse-final
 
-This document contains a description of our project
-for CSE and the different parts that were needed to complete it.
+Andino Rochon -- Rishi Patel -- Karan Shah
 
 **We wanted to make a better way to take medicine that would help all people.
 Some people cannot take their medicine on their own or depend on others to help them.
